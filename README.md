@@ -1,4 +1,5 @@
 # AI FOR EDUCATION – Adaptive Intelligent Learning System
+(genai)
 
 A comprehensive AI-powered educational platform that combines adaptive learning, machine learning predictions, and generative AI to create a personalized student experience.
 
